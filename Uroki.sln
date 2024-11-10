@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uroki", "Uroki\Uroki.csproj", "{A0B2E924-032F-4E40-A029-8F8305A8C00E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{5FC99CC0-4ED1-4E72-836E-4B4877917880}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1E8CF97C-3C59-47A2-8AEE-AE909AE32D2E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0B2E924-032F-4E40-A029-8F8305A8C00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B2E924-032F-4E40-A029-8F8305A8C00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B2E924-032F-4E40-A029-8F8305A8C00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B2E924-032F-4E40-A029-8F8305A8C00E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {680D0E0A-C29A-4619-BB13-B40E7B64708A}
+	EndGlobalSection
+EndGlobal
